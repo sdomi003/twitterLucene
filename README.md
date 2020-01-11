@@ -1,5 +1,6 @@
 # TwitterViewer
 Twitter Viewer is a webapp that lets you view local tweets on a map. 
+Visit it at http://samueldominguez.heliohost.org/TweetViewer_war/
 
 ![Example of the UI](https://github.com/CS-UCR/final-project-carriedbyjoker/blob/master/twitterviewer.png)
 
